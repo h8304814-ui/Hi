@@ -1,0 +1,7 @@
+{
+  "name": "HS Collection - Pakistani Fashion & Accessories",
+  "description": "Premium Pakistani fashion brand offering luxury ladies suits, gents pret, designer accessories, and nationwide Cash on Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
